@@ -41,11 +41,6 @@ The Home screen displays the list of food items in a grid view, with each food i
 
 
 
-## Live-Demo-
-
-[Food-Delivery-App-Live]()
-
-
 ## Steps to Run the App- 
 
 ### Getting Started with Create React App
